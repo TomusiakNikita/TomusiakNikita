@@ -27,5 +27,5 @@ Currently studying Computer Science at **Université Paris Cité** and building 
 
 ## Find me
 
-- LinkedIn: [Nikita Tomusiak](YOUR_LINKEDIN_URL)
-- LeetCode: [nikitatomusiak](https://leetcode.com/u/nikitatomusiak/)
+- LinkedIn: https://www.linkedin.com/in/nikita-tomusiak-466349294
+- LeetCode: https://leetcode.com/u/nikitatomusiak/
