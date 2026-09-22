@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
 
-<!--
-**TomusiakNikita/TomusiakNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on **backend development, web applications, and business automation**.
 
-Here are some ideas to get you started:
+Currently studying Computer Science at **Université Paris Cité** and building practical projects in software development, SaaS, APIs, databases, automation, and AI integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+**Languages:** C++, Java, Python
+**Development:** Backend, Web Applications, APIs, Databases, SQL  
+**Automation:** n8n, Business Process Automation, AI Integrations  
+**Tools:** Git, GitHub
+
+## What I'm building
+
+- Backend and full-stack applications
+- SaaS projects
+- Business automation workflows
+- API integrations
+- Practical software projects that solve real problems
+
+## Currently
+
+🎓 Computer Science — Université Paris Cité  
+📍 Paris, France  
+💼 Open to freelance projects, internships, and junior developer opportunities
+
+## Find me
+
+- LinkedIn: [Nikita Tomusiak](YOUR_LINKEDIN_URL)
+- LeetCode: [nikitatomusiak](https://leetcode.com/u/nikitatomusiak/)
