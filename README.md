@@ -11,6 +11,18 @@ Currently studying Computer Science at **Université Paris Cité** and building 
 **Automation:** n8n, Webhooks, Business Process Automation, AI Integrations  
 **Tools:** Git, GitHub
 
+## Current interests
+
+Right now, I’m especially interested in building and learning around:
+
+- AI automation and workflow design
+- AI integrations with existing business tools and software
+- AI engineering and applied AI systems
+- AI consulting and strategy
+- Practical use of AI to improve business processes, products, and internal operations
+
+I’m particularly interested in projects where AI is not just a feature, but part of a useful system that connects data, software, automation, and real business needs.
+
 ## Selected projects
 
 ### [Inquiry Triage Automation](./portfolio/inquiry-triage-automation)
@@ -23,7 +35,7 @@ A Python computer-science project exploring object-oriented programming, grid-ba
 
 🎓 Computer Science — Université Paris Cité  
 📍 Paris, France  
-💼 Open to freelance projects, internships, and junior developer opportunities
+💼 Open to freelance projects, internships, junior developer opportunities, and AI-focused collaborations
 
 ## Find me
 
