@@ -1,0 +1,35 @@
+{
+  "business_process": "Inbound sales",
+  "tasks": [
+    {
+      "name": "Copy website leads into CRM",
+      "minutes_per_run": 6,
+      "runs_per_week": 45,
+      "manual_error_rate_pct": 8,
+      "rule_based_score": 5,
+      "systems_touched": 2,
+      "data_sensitivity": "medium",
+      "human_judgment_score": 1
+    },
+    {
+      "name": "Summarize long customer inquiries",
+      "minutes_per_run": 8,
+      "runs_per_week": 30,
+      "manual_error_rate_pct": 5,
+      "rule_based_score": 3,
+      "systems_touched": 2,
+      "data_sensitivity": "medium",
+      "human_judgment_score": 2
+    },
+    {
+      "name": "Negotiate final enterprise contract terms",
+      "minutes_per_run": 90,
+      "runs_per_week": 2,
+      "manual_error_rate_pct": 3,
+      "rule_based_score": 1,
+      "systems_touched": 3,
+      "data_sensitivity": "high",
+      "human_judgment_score": 5
+    }
+  ]
+}
