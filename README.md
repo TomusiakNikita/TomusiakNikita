@@ -16,9 +16,6 @@ Currently studying Computer Science at **Université Paris Cité** and building 
 ### [Inquiry Triage Automation](./portfolio/inquiry-triage-automation)
 A public backend + automation showcase built around a FastAPI service, SQLite persistence, API-based classification, and an n8n integration flow for routing incoming business inquiries.
 
-### [VERDICT — Case Study](./portfolio/verdict)
-A Steam-first game discovery and review platform. The production source remains private, while the public case study documents the product scope, architecture, data flow, and engineering decisions.
-
 ### [Lemmings — Python Project](https://github.com/TomusiakNikita/Project---Lemmings---Python)
 A Python computer-science project exploring object-oriented programming, grid-based simulation, game logic, and algorithmic problem solving.
 
